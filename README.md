@@ -59,6 +59,6 @@ If number of breaches is 10 or more, the VaR system is in Red zone
 
 
 You can find more details at
-https://finpricing.com/lib/IrCurveIntroduction.html
+https://finpricing.com/faq.html
 
 
