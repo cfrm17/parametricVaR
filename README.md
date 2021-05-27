@@ -58,7 +58,11 @@ If number of breaches is 5-9, the VaR system is in Yellow zone
 If number of breaches is 10 or more, the VaR system is in Red zone
 
 
-You can find more details at
-https://finpricing.com/faq.html
+Reference:
+
+https://finpricing.com/lib/EqVariance.html
+
+https://bitbucket.org/cfrm17/parametricvar/downloads/ParametricVaR-12.pdf
+
 
 
