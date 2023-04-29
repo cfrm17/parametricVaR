@@ -60,9 +60,4 @@ If number of breaches is 10 or more, the VaR system is in Red zone
 
 Reference:
 
-https://finpricing.com/lib/EqVariance.html
-
-https://bitbucket.org/cfrm17/parametricvar/downloads/ParametricVaR-12.pdf
-
-
-
+https://finpricing.com/FinPricing-ProductBrochure.pdf
